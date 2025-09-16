@@ -31,5 +31,5 @@ The game features a progression of levels, each with a unique objective, SQL con
 
 ## Team Collaborator
 - Eashan Jain
--priyanshu singh
--sumanth
+- priyanshu singh
+- sumanth
