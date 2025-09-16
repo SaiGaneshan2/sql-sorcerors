@@ -1,4 +1,3 @@
-# Late_But_Latest_Hackceler8
 ## Project Description
 SQL-GAME is an interactive educational game designed to teach SQL concepts through engaging levels and challenges. Players progress through various stages, each focusing on a specific SQL topic, learning by solving real-world inspired puzzles and quests.
 
