@@ -29,7 +29,3 @@ The game features a progression of levels, each with a unique objective, SQL con
    npm run dev
    
 
-## Team Collaborator
-- Eashan Jain
-- priyanshu singh
-- sumanth
